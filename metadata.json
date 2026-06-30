@@ -1,0 +1,6 @@
+{
+  "name": "Theology AI Connect",
+  "description": "Nền tảng kết nối truyền thông mục vụ Giáo xứ và Giáo phận Việt Nam, tích hợp trợ lý trí tuệ nhân tạo Theology AI thông minh hỗ trợ tra cứu Giáo lý Công giáo, soạn thảo nội dung truyền giáo và tóm tắt văn kiện huấn quyền.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
